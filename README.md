@@ -79,6 +79,8 @@ The AI's decision-making is driven by a sophisticated evaluation function that a
 - Visual distinction between normal pieces and kings.
 - Game state display (turn, winner, captures).
 
+---
+
 ## 5. Conclusion
 This Checkers implementation combines:  
 ✔ Classic rules (forced captures, kings).  
